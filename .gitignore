@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 .pomodoro_config.json
+.claude/
