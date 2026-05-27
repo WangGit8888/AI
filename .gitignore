@@ -2,3 +2,21 @@ __pycache__/
 *.pyc
 .pomodoro_config.json
 .claude/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# Maven
+.mvn/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -29,3 +29,5 @@ No test suite or linter is configured.
 ## Platform
 
 Windows only. Relies on `win10toast` and `winsound` (both Windows-specific). The `run.bat` launcher assumes Windows `%dp0` path resolution.
+
+代码规范参考[text](java语言规范)
